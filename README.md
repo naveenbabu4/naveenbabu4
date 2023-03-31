@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bsa.naveenbabu@gmail.com**
 
-- ⚡ Fun fact **I Think I am innovative**
+- ⚡ Fun fact **I Think I am Innovative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
