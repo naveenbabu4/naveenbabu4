@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbabu4&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbabu4" /> </p>
 
-- 💬 Ask me about **React, NodeJS, TypeScript, Redux, JavaScript .Net Core, .NET Web API,.NET MVC**
+- 💬 Ask me about **React, NodeJS, TypeScript, Redux, Microservices, JavaScript, .Net Core, .NET Web API,.NET MVC**
 
 - 📫 How to reach me **bsa.naveenbabu@gmail.com**
 
