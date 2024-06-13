@@ -1,16 +1,12 @@
 ![MasterHead](https://github.com/naveenbabu4/DevImages/blob/main/IMG_20230329_162225.png)
 <h1 align="center">Hi 👋, I'm Naveen Bahunadham</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full SStack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbabu4&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbabu4" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **.NET Core,.NET Web API,.NET MVC, Angular, PL/SQL**
+- 💬 Ask me about **React, NodeJS, TypeScript, Redux, JavaScript .Net Core, .NET Web API,.NET MVC**
 
 - 📫 How to reach me **bsa.naveenbabu@gmail.com**
-
-- ⚡ Fun fact **I Think I am Innovative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
