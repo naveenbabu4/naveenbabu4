@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/naveenbabu4/DevImages/blob/main/IMG_20230329_162225.png)
 <h1 align="center">Hi 👋, I'm Naveen Bahunadham</h1>
 <h3 align="center">A passionate Full SStack Developer from India</h3>
 
