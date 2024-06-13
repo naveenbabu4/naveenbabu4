@@ -4,14 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbabu4&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbabu4" /> </p>
 
 - 💬 Ask me about **React, NodeJS, TypeScript, Redux, Microservices, JavaScript, .Net Core, .NET Web API,.NET MVC**
-
+- 👀 I'm intreseted in Developmemnt of Backend, Forntend, API, Full Stack Web Applications
 - 📫 How to reach me **bsa.naveenbabu@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naveenbahunadham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenbahunadham" height="30" width="40" /></a>
-<a href="https://instagram.com/naveen_bahunadham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveen_bahunadham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naveenbahunadham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenbahunadham" height="15" width="30" /></a>
+<a href="https://instagram.com/naveen_bahunadham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveen_bahunadham" height="15" width="30" /></a>
 </p>
+
+###
+
+<h2 align="left">💞️ I’m looking to collaborate on ...</h2>
 
 ###
 
