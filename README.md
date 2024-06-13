@@ -5,8 +5,8 @@
 
 
 
-- 💬 Ask me about **React, NodeJS, TypeScript, Redux, Microservices, JavaScript, .Net Core, .NET Web API,.NET MVC** 
-- 👀 I'm intreseted in Developmemnt of **Backend, Forntend, API, Full Stack Web Applications**
+- 💬 Ask me about **React, NodeJS, TypeScript, Redux, Microservices, JavaScript, .Net Core, .NET Web API, .NET MVC** 
+- 👀 I'm intreseted in Development of **Backend, Forntend, API, Full Stack Web Applications**
 - 📫 How to reach me **bsa.naveenbabu@gmail.com**
 
 
