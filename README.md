@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Bahunadham</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbabu4&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbabu4" /> </p>
+
 
 - 💬 Ask me about **React, NodeJS, TypeScript, Redux, Microservices, JavaScript, .Net Core, .NET Web API,.NET MVC**
 - 👀 I'm intreseted in Developmemnt of Backend, Forntend, API, Full Stack Web Applications
@@ -16,7 +16,8 @@
 
 ###
 
-<h2 align="left">I’m looking to collaborate on ...</h2>
+<h2 align="left">I’m looking to collaborate on </h2>
+
 - Freeelancing on .Net Core and MERN Applications (API, REST API, Microservices)
 - Full time roles
 
@@ -51,9 +52,4 @@
 </div>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenbabu4&show_icons=true&locale=en&layout=compact" alt="naveenbabu4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenbabu4&show_icons=true&locale=en" alt="naveenbabu4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenbabu4&" alt="naveenbabu4" /></p>
 
