@@ -20,7 +20,6 @@
 
 <h2 align="left">I’m looking to collaborate on </h2>
 
-- Freelancing on .Net Core and MERN Applications (API, REST API, Microservices)
 - Full time roles
 - Open source projects
 
